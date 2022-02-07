@@ -2,8 +2,16 @@
 
 https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=25%3A0
 
+• Estructura Base del Proyecto •
+
 1. Crear el archivo: index.html
 
 2. Crear la carpeta: assets
 
 3. Agregar las imágene e iconos en la carpeta: assets
+
+4. Agregar las fuentes desde google fonts al proyecto, en el archivo: index.html
+
+5. Crear el archivo: styles.css
+
+• 
