@@ -1,0 +1,9 @@
+• URL Diseño del Proyecto •
+
+https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=25%3A0
+
+1. Crear el archivo: index.html
+
+2. Crear la carpeta: assets
+
+3. Agregar las imágene e iconos en la carpeta: assets
