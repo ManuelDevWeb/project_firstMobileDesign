@@ -25,3 +25,12 @@ https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=25%3A0
 10. Crear la carpeta: css
 
 11. Crear el archivo: css/tablet.css
+
+• Análisis Lighthouse •
+
+12. Ir a Lighthouse: - Performance 
+                     - Best practices
+                     - Accessibility
+    Generar reporte para mobile y desktop
+
+13.     
